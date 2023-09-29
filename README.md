@@ -1,4 +1,4 @@
-!![Image de Cthulhu en cadre superieur](assets/cthulu.png)
+![Image de Cthulhu en cadre superieur](assets/cthulu.png)
 # Hi, I'm Fred
 
  I'm from Paris (France). I'm an "old" junior developer. 
